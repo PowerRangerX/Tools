@@ -1,0 +1,11 @@
+ PowerToys
+ Windows Terminal
+ LivelyWallpaper
+ Notepad++
+ VsCodium
+ qBittorrent
+
+ ----------
+
+ wsl
+ powershell
