@@ -2,8 +2,10 @@
  Windows Terminal
  LivelyWallpaper
  Notepad++
- VsCodium
+ VSCodium
  qBittorrent
+ BullCrap Uninstaller
+ VLC media player
 
  ----------
 
