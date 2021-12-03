@@ -39,16 +39,15 @@ Windows Camera                                Microsoft.WindowsCamera_8wekyb3d8b
 Feedback Hub                                  Microsoft.WindowsFeedbackHub_8wekyb3d8bbwe    1.2111.3171.0       
 Windows Maps                                  Microsoft.WindowsMaps_8wekyb3d8bbwe           10.2104.2.0         
 Windows Voice Recorder                        Microsoft.WindowsSoundRecorder_8wekyb3d8bbwe  10.2103.28.0        
-Microsoft Store                               Microsoft.WindowsStore_8wekyb3d8bbwe          22110.1401.17.0     
+Microsoft Store                               Microsoft.WindowsStore_8wekyb3d8bbwe          22111.1401.1.0      
 Windows Terminal                              Microsoft.WindowsTerminal                     1.11.2921.0         winget
-Windows Package Manager Source (winget)       Microsoft.Winget.Source_8wekyb3d8bbwe         2021.1202.2020.222  
+Windows Package Manager Source (winget)       Microsoft.Winget.Source_8wekyb3d8bbwe         2021.1203.1547.736  
 Xbox TCUI                                     Microsoft.Xbox.TCUI_8wekyb3d8bbwe             1.24.10001.0        
 Xbox Console Companion                        Microsoft.XboxApp_8wekyb3d8bbwe               48.78.15001.0       
 Xbox Game Bar Plugin                          Microsoft.XboxGameOverlay_8wekyb3d8bbwe       1.54.4001.0         
 Xbox Game Bar                                 Microsoft.XboxGamingOverlay_8wekyb3d8bbwe     5.721.10202.0       
 Xbox Identity Provider                        Microsoft.XboxIdentityProvider_8wekyb3d8bbwe  12.83.12001.0       
 Xbox Game Speech Window                       Microsoft.XboxSpeechToTextOverlay_8wekyb3d8b… 1.21.13002.0        
-Your Phone                                    Microsoft.YourPhone_8wekyb3d8bbwe             1.21102.134.0       
 Mozilla Firefox (x64 en-GB)                   Mozilla Firefox 94.0.2 (x64 en-GB)            94.0.2              
 Mozilla Maintenance Service                   MozillaMaintenanceService                     94.0.2              
 NVIDIA Control Panel                          NVIDIACorp.NVIDIAControlPanel_56jybvy8sckqj   8.1.961.0           
@@ -61,9 +60,9 @@ qBittorrent                                   qBittorrent.qBittorrent           
 VLC media player                              VideoLAN.VLC                                  3.0.16.0            winget
 Microsoft Update Health Tools                 {29B15818-E79F-4AB0-8938-9410C807AD76}        2.84.0.0            
 VSCodium                                      VSCodium.VSCodium                             1.62.3              winget
-Windows Subsystem for Linux Update            {36EF257E-21D5-44F7-8451-07923A8C465E}        5.10.16             
 Microsoft Windows Desktop Runtime - 3 (x64)   Microsoft.dotnetRuntime.3-x64                 3.1.21.30622        winget
 PowerToys (Preview)                           Microsoft.PowerToys                           0.51.0              winget
+Windows Subsystem for Linux Update            {8BC9BA1B-F6F3-471D-8773-5283F0C52B84}        5.10.60.1           
 MSYS2                                         msys2.msys2                                   20210725            winget
 Windows PC Health Check                       Microsoft.WindowsPCHealthCheck                3.2.2110.14001      winget
 NVIDIA Graphics Driver 462.30                 {B2FE1952-0186-46C3-BAEC-A80AA35AC5B8}_Displ… 462.30              
@@ -76,4 +75,5 @@ Wireshark                                     WiresharkFoundation.Wireshark     
 Intel(R) Chipset Device Software              {afad3740-3061-4b48-a9ab-6f1435cb3dd6}        10.1.18383.8213     
 Microsoft Visual C++ 2015-2019 Redistributab… Microsoft.VC++2015-2019Redist-x86             14.29.30135.0       winget
 Microsoft Windows Desktop Runtime - 3.1.21 (… {d1c9f155-e14a-4486-b545-dde658719aac}        3.1.21.30622        
+BCUninstaller                                 Klocman.BulkCrapUninstaller                   5.1.0.0             winget
 Microsoft Visual C++ 2015-2019 Redistributab… Microsoft.VC++2015-2019Redist-x64             14.29.30135.0       winget
