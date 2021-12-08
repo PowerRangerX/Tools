@@ -3,6 +3,7 @@
     "workbench.enableExperiments": false,
     "editor.insertSpaces": false,
     "editor.bracketPairColorization.enabled": true,
+    "terminal.integrated.enablePersistentSessions": false,
     // font from nerd font
     "editor.fontFamily": "\"CaskaydiaCove Nerd Font Mono\"",
     // setting up git and wsl
