@@ -6,6 +6,8 @@
  qBittorrent
  BullCrap Uninstaller
  VLC media player
+ FireFox
+ Brave
 
  ----------
 
