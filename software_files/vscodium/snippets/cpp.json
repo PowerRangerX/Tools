@@ -31,4 +31,11 @@
 		],
 		"description": "std::cout"
 	},
+	"std::in": {
+		"prefix": "std::in",
+		"body": [
+			"std::cout >> \"$1\";"
+		],
+		"description": "std::in"
+	}
 }
