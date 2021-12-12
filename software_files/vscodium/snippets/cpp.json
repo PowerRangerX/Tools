@@ -27,7 +27,7 @@
 	"std::cout": {
 		"prefix": "std::cout",
 		"body": [
-			"std::cout << \"$1\" << std::endl;"
+			"std::cout << \"$1 \\n\";"
 		],
 		"description": "std::cout"
 	},
