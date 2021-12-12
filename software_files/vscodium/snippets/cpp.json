@@ -31,11 +31,11 @@
 		],
 		"description": "std::cout"
 	},
-	"std::in": {
+	"std::cin": {
 		"prefix": "std::in",
 		"body": [
-			"std::cout >> $1;"
+			"std::cin >> $1;"
 		],
-		"description": "std::in"
+		"description": "std::cin"
 	}
 }
