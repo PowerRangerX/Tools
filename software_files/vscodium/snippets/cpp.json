@@ -32,7 +32,7 @@
 		"description": "std::cout"
 	},
 	"std::cin": {
-		"prefix": "std::in",
+		"prefix": "std::cin",
 		"body": [
 			"std::cin >> $1;"
 		],
