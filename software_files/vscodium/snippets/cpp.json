@@ -27,15 +27,15 @@
 	"std::cout": {
 		"prefix": "std::cout",
 		"body": [
-			"std::cout << \"$1\" << std::endl;"
+			"std::cout << \"$1 \\n\";"
 		],
 		"description": "std::cout"
 	},
-	"std::in": {
-		"prefix": "std::in",
+	"std::cin": {
+		"prefix": "std::cin",
 		"body": [
-			"std::cout >> $1;"
+			"std::cin >> $1;"
 		],
-		"description": "std::in"
+		"description": "std::cin"
 	}
 }
