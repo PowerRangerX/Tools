@@ -8,6 +8,7 @@
  VLC media player
  FireFox
  Brave
+ BleachBit
 
  ----------
 
