@@ -9,6 +9,7 @@
  FireFox
  Brave
  BleachBit
+ Anki
 
  ----------
 
