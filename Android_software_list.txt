@@ -1,0 +1,8 @@
+Spotube :- https://github.com/KRTirtho/spotube
+Aves :- https://github.com/deckerst/aves
+CloudStream :- https://github.com/recloudstream/cloudstream (fdroid)
+OpenCalc :- https://github.com/Darkempire78/OpenCalc
+ViMusic :- https://github.com/vfsfitvnm/ViMusic
+Wall You :- https://github.com/Bnyro/WallYou
+GeometricWeather :- https://github.com/WangDaYeeeeee/GeometricWeather
+BlackHole :- https://github.com/Sangwan5688/BlackHole

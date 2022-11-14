@@ -1,4 +1,4 @@
-windows 11
+Windows 11
 -----------------------
-context menu for windows 11  -- https://github.com/ikas-mc/ContextMenuForWindows11
+Context menu for windows 11  -- https://github.com/ikas-mc/ContextMenuForWindows11
 -----------------------
