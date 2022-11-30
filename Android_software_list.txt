@@ -6,3 +6,20 @@ ViMusic :- https://github.com/vfsfitvnm/ViMusic
 Wall You :- https://github.com/Bnyro/WallYou
 GeometricWeather :- https://github.com/WangDaYeeeeee/GeometricWeather
 BlackHole :- https://github.com/Sangwan5688/BlackHole
+Infinity for reddit :- https://github.com/Docile-Alligator/Infinity-For-Reddit
+InnerTune :- https://github.com/z-huang/InnerTune
+Musifiy :- https://github.com/gokadzev/Musify
+neutriNote CE :- https://github.com/appml/neutrinote
+Amaze(file manager):- https://github.com/TeamAmaze/AmazeFileManager
+App Manager :- https://github.com/MuntashirAkon/AppManager
+LibreTube :- https://github.com/libre-tube/LibreTube
+VueTube :- https://github.com/VueTubeApp/VueTube
+MoneyWallet :- https://github.com/AndreAle94/moneywallet
+My Expenses :- https://github.com/mtotschnig/MyExpenses
+personalDNSfilter :- https://github.com/IngoZenz/personaldnsfilter
+tasks :- https://github.com/tasks/tasks
+codecallendar :- https://github.com/stackbuffer/CodeCalendar
+Habits :- https://github.com/iSoron/uhabits
+NewPipe :- https://github.com/TeamNewPipe/NewPipe
+Seal :- https://github.com/JunkFood02/Seal
+Stealth :- https://gitlab.com/cosmosapps/stealth
