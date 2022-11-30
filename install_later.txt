@@ -1,4 +1,11 @@
 Windows 11
 -----------------------
-Context menu for windows 11  -- https://github.com/ikas-mc/ContextMenuForWindows11
+context menu for windows 11  -- https://github.com/ikas-mc/ContextMenuForWindows11
+-----------------------
+
+note taking apps
+-----------------------
+Joplin
+Standard notes
+Simplenote
 -----------------------
