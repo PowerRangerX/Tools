@@ -6,18 +6,21 @@ BlackHole :- https://github.com/Sangwan5688/BlackHole
 Musifiy :- https://github.com/gokadzev/Musify
 InnerTune :- https://github.com/z-huang/InnerTune
 VibeMusic :- https://github.com/sheikhhaziq/vibemusic
+------------------------------------
 
 Util
 ------------------------------------
 Aves :- https://github.com/deckerst/aves
 OpenCalc :- https://github.com/Darkempire78/OpenCalc
 Droid-ify :- https://github.com/Iamlooker/Droid-ify
+------------------------------------
 
 Youtube
 ------------------------------------
 LibreTube :- https://github.com/libre-tube/LibreTube
 NewPipe :- https://github.com/TeamNewPipe/NewPipe
 VueTube :- https://github.com/VueTubeApp/VueTube
+------------------------------------
 
 Other
 ------------------------------------
@@ -37,3 +40,4 @@ codecallendar :- https://github.com/stackbuffer/CodeCalendar
 Habits :- https://github.com/iSoron/uhabits
 Seal :- https://github.com/JunkFood02/Seal
 Stealth :- https://gitlab.com/cosmosapps/stealth
+------------------------------------
