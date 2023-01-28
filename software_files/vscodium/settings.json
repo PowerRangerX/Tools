@@ -1,37 +1,58 @@
 {
-    "workbench.colorTheme": "Default Dark+",
-    "workbench.enableExperiments": false,
-    "editor.insertSpaces": false,
-    "editor.bracketPairColorization.enabled": true,
-    "terminal.integrated.enablePersistentSessions": false,
+	// Change theme based on OS theme
+	"window.autoDetectColorScheme": true,
+	
+	// Change the Activity bar color to light for light themes
+	"workbench.colorCustomizations": {
+		"[Default Light*]":{
+			"activityBar.background": "#dddcdc",
+			"activityBar.foreground": "#000000"
+		},
+	},
 
-    // get code snippets on top
-    "editor.snippetSuggestions": "top",
-    
-    // font from nerd font
-    "editor.fontFamily": "\"CaskaydiaCove Nerd Font Mono\"",
+	// Turn off telemetry
+	"telemetry.telemetryLevel": "off",
+	
+	// Turn off experiments
+	"workbench.enableExperiments": false,
+	
+	// Use tab instead of spaces
+	"editor.insertSpaces": false,
 
-    // setting up git and wsl
-    "terminal.integrated.defaultProfile.windows": "Ubuntu (WSL)",
-    // make a bat file and add the path to git.path to use git without wsl remote extension
-    "git.path": "C:\\git_wsl\\git.bat",
+	// No presistent terminal
+	"terminal.integrated.enablePersistentSessions": false,
 
-    // code-runner settings
-    "code-runner.enableAppInsights": false,
-    "code-runner.runInTerminal": true,
-    // changed / to /mnt/
-    // if you are using the wsl with bash use the following line if not remove it
-    "code-runner.terminalRoot": "/mnt/",
+	// Get code snippets on top
+	"editor.snippetSuggestions": "top",
 
-    // if python doesn't work use the following settings
-    // g++ and gcc settings for debugging and warnings
-    "code-runner.executorMap": {
-        "cpp": "cd $dir && g++ -ggdb $fileName -o $fileNameWithoutExt && $dir$fileNameWithoutExt",
-        "c": "cd $dir && gcc -ggdb $fileName -o $fileNameWithoutExt && $dir$fileNameWithoutExt",
+	// Font from nerd font
+	// "editor.fontFamily": "Cascadia Code",
+	"editor.fontFamily": "CaskaydiaCove NF Mono",
+	"editor.fontLigatures": true,
 
-        // use this if you wish to wirte code better
-        // "cpp": "cd $dir && g++ -ggdb -Werror -Wall -Wextra -Wshadow -pedantic $fileName -o $fileNameWithoutExt && $dir$fileNameWithoutExt",
-        
-        "python": "python3 -u"
-    }
+	// Code-runner settings
+	// disable telemetry for code-runner
+	"code-runner.enableAppInsights": false,
+	"code-runner.runInTerminal": true,
+	
+	// Selects the first suggestion
+	"editor.suggestSelection": "first",
+	
+	"vsintellicode.modify.editor.suggestSelection": "automaticallyOverrodeDefaultValue",
+	
+	// Files to unhide in the explorer
+	"files.exclude": {
+		"**/.classpath": true,
+		"**/.factorypath": true,
+		"**/.git": false,
+		"**/.project": true,
+		"**/.settings": true
+	},
+
+	// Enable the search bar at the top
+	"window.commandCenter": true,
+	
+	// SQL formatter extension
+	"sql-formatter.uppercase": true,
+	"diffEditor.ignoreTrimWhitespace": false,
 }

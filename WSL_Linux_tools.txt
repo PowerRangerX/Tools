@@ -1,4 +1,0 @@
-node
-htop
-neovim
-vim

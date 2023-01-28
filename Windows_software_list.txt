@@ -1,17 +1,18 @@
- PowerToys
- Windows Terminal
- LivelyWallpaper
- Notepad++
- VSCodium
- qBittorrent
- BullCrap Uninstaller
- VLC media player
- FireFox
- Brave
- BleachBit
- Anki
+PowerToys
+Flow launcher
+Windows Terminal
+LivelyWallpaper
+Notepad++
+VSCodium / VSCode
+qBittorrent
+BullCrap Uninstaller
+VLC media player
+FireFox
+LibreFox
+Brave
+BleachBit
+Anki
 
- ----------
+----------
 
- wsl
- powershell
+wsl
