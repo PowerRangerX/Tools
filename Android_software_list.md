@@ -19,6 +19,8 @@
 
 [OpenCalc](https://github.com/Darkempire78/OpenCalc) :- A simple and beautiful calculator for Android 
 
+[Unitto](https://github.com/sadellie/unitto) :- Calculator and Unit converter for Android 
+
 [Droid-ify](https://github.com/Iamlooker/Droid-ify) :- F-Droid client with Material UI. 
 
 
@@ -31,8 +33,32 @@
 [VueTube](https://github.com/VueTubeApp/VueTube) :- A simple FOSS video streaming client aimed to recreate ALL features from their respective apps (and more) 
 
 
+### Reddit
+----------------------------------------------
+[Infinity for reddit](https://github.com/Docile-Alligator/Infinity-For-Reddit) :- A Reddit client for Android 
+
+[Stealth](https://gitlab.com/cosmosapps/stealth) :- Stealth is an account-free, privacy-oriented, and feature-rich Reddit client.
+
+
+### Lemmy
+----------------------------------------------
+[Jerboa](https://github.com/dessalines/jerboa) :- A native android app for Lemmy 
+
+[Liftoff](https://github.com/liftoff-app/liftoff) :- A mobile client for lemmy 
+
+
+### Mastodon
+----------------------------------------------
+[Mastodon](https://github.com/mastodon/mastodon-android) :- Official Android app for Mastodon
+
+[Moshidon](https://github.com/LucasGGamerM/moshidon) :- Better modification of the official Mastodon for Android app 
+
+[Megalodon](https://github.com/sk22/megalodon) :- Mastodon client for Android but it's pink and has more features 
+
 ### Other
 ----------------------------------------------
+[Table Habits](https://github.com/FriesI23/mhabit) :- Table Habit is an app that helps you establish and track your own micro habit. Its includes a complete set of growth curves and charts to help you establish habits more effectively.
+
 [MyGarden](https://gitlab.com/m9712) :- A simple app to manage your Garden
 
 [GreenStash](https://github.com/Pool-Of-Tears/GreenStash) :- Simple FOSS android app to help you plan and manage your savings goals easily and establish the habit of saving money. 
@@ -50,8 +76,6 @@
 [CloudStream](https://github.com/recloudstream/cloudstream) :- Android app for streaming and downloading Movies, TV-Series and Anime. 
 
 [GeometricWeather](https://github.com/WangDaYeeeeee/GeometricWeather) :- A Material Design Weather Application 
-
-[Infinity fordit](https://github.com/Docile-Alligator/Infinity-For-Reddit) :- A Reddit client for Android 
 
 [neutriNote CE](https://github.com/appml/neutrinote) :- neutriNote - Markdown + Math in Just 3 MB! 
 
@@ -72,5 +96,3 @@
 [Habits](https://github.com/iSoron/uhabits) :- Loop Habit Tracker, a mobile app for creating and maintaining long-term positive habits 
 
 [Seal](https://github.com/JunkFood02/Seal) :- Video/Audio Downloader for Android, based on yt-dlp, designed with Material You 
-
-[Stealth](https://gitlab.com/cosmosapps/stealth) :- Stealth is an account-free, privacy-oriented, and feature-rich Reddit client.

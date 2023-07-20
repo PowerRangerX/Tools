@@ -1,5 +1,18 @@
+### Customization
+----------------------------------------------
+[Context Menu for Windows 11](https://github.com/ikas-mc/ContextMenuForWindows11) :- Custom Context Menu for Windows 11
+
+
 ### Software
 ----------------------------------------------
+[Standard notes](https://standardnotes.com/) :- Standard Notes is an end-to-end encrypted note-taking app for digitalists and professionals. Capture your notes, files, and life’s work all in one secure place. [standard notes repo](https://github.com/standardnotes/app)
+
+[Simplenote](https://simplenote.com/) :- Simplenote for Web, Windows, and Linux. [simplenote repo](https://github.com/Automattic/simplenote-electron)
+
+[Ventoy](https://www.ventoy.net/en/index.html) :- Ventoy is an open source tool to create bootable USB drive for ISO/WIM/IMG/VHD(x)/EFI files. With ventoy, you don't need to format the disk over and over, you just need to copy the ISO/WIM/IMG/VHD(x)/EFI files to the USB drive and boot them directly. [ventoy repo](https://github.com/ventoy/Ventoy)
+
+[WizTree](https://diskanalyzer.com/) :- Find the files and folders using the most space on your hard drive - QUICKLY!
+
 [WinToys](https://apps.microsoft.com/store/detail/wintoys/9P8LTPGCBZXD) :- Wintoys, an app that let's you experience Windows in your way and keep it fresh everyday while having everything you need in one place
 
 [PowerToys](https://github.com/microsoft/PowerToys) :- Windows system utilities to maximize productivity 
@@ -36,7 +49,7 @@
 
 [simple-http-server](https://github.com/TheWaWaR/simple-http-server) :- Simple http server in Rust (Windows/Mac/Linux) 
 
+
 ### Services
 ----------------------------------------------
-
 [WSL](https://aka.ms/wsl) :- Windows Subsystem for Linux
