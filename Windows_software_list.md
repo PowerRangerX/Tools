@@ -1,10 +1,9 @@
-### Customization
-----------------------------------------------
-[Context Menu for Windows 11](https://github.com/ikas-mc/ContextMenuForWindows11) :- Custom Context Menu for Windows 11
-
-
 ### Software
 ----------------------------------------------
+[Tidy Tabs](https://apps.microsoft.com/store/detail/tidytabs/XPDLJXH603QVT8) :- TidyTabs is a tool that allows you to free up your desktop or organize your applications into tabbed groups for easier and quicker access. Ever wanted to have Chrome-style tabs in Windows Explorer, Microsoft Office, or PuTTY? TidyTabs does just that.
+
+[Context Menu for Windows 11](https://github.com/ikas-mc/ContextMenuForWindows11) :- Custom Context Menu for Windows 11
+
 [Standard notes](https://standardnotes.com/) :- Standard Notes is an end-to-end encrypted note-taking app for digitalists and professionals. Capture your notes, files, and life’s work all in one secure place. [standard notes repo](https://github.com/standardnotes/app)
 
 [Simplenote](https://simplenote.com/) :- Simplenote for Web, Windows, and Linux. [simplenote repo](https://github.com/Automattic/simplenote-electron)
