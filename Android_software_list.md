@@ -21,7 +21,9 @@
 
 [Unitto](https://github.com/sadellie/unitto) :- Calculator and Unit converter for Android 
 
-[Droid-ify](https://github.com/Iamlooker/Droid-ify) :- F-Droid client with Material UI. 
+[Droid-ify](https://github.com/Iamlooker/Droid-ify) :- F-Droid client with Material UI.
+
+[Data Monitor](https://github.com/itsdrnoob/DataMonitor) :- Data usage monitoring app for android. 
 
 
 ### Youtube
@@ -30,11 +32,29 @@
 
 [NewPipe](https://github.com/TeamNewPipe/NewPipe) :- A libre lightweight streaming front-end for Android.
 
-[VueTube](https://github.com/VueTubeApp/VueTube) :- A simple FOSS video streaming client aimed to recreate ALL features from their respective apps (and more) 
+[VueTube](https://github.com/VueTubeApp/VueTube) :- A simple FOSS video streaming client aimed to recreate ALL features from their respective apps (and more)
+
+[Seal](https://github.com/JunkFood02/Seal) :- Video/Audio Downloader for Android, based on yt-dlp, designed with Material You
+
+[YTDlnis](https://github.com/deniscerri/ytdlnis) :- Android Video/Audio Downloader app using yt-dlp.
+
+
+### Invidious
+----------------------------------------------
+[Clipious](https://github.com/lamarios/clipious) :- Invidious client for android
+
+
+### Hacker News
+----------------------------------------------
+[Glider](https://github.com/Mosc/Glider) :- Glider is an opinionated Hacker News client. Ad-free, open-source, no-nonsense.
+
+[Hacki](https://github.com/Livinglist/Hacki) :- A Hacker News client made with Flutter that is just enough.
 
 
 ### Reddit
 ----------------------------------------------
+[Geddit](https://github.com/kaangiray26/geddit-app) :- Geddit is an open-source, Reddit client for Android without using their API.
+
 [Infinity for reddit](https://github.com/Docile-Alligator/Infinity-For-Reddit) :- A Reddit client for Android 
 
 [Stealth](https://gitlab.com/cosmosapps/stealth) :- Stealth is an account-free, privacy-oriented, and feature-rich Reddit client.
@@ -56,15 +76,36 @@
 [Megalodon](https://github.com/sk22/megalodon) :- Mastodon client for Android but it's pink and has more features 
 
 
-### Other
+### Money
 ----------------------------------------------
+[GreenStash](https://github.com/Pool-Of-Tears/GreenStash) :- Simple FOSS android app to help you plan and manage your savings goals easily and establish the habit of saving money.
+
+[Paisa](https://github.com/RetroMusicPlayer/Paisa) :- Expense manager for Android with Material Design 
+
+[MoneyWallet](https://github.com/AndreAle94/moneywallet) :- An android application that let you track your expenses 
+
+[My Expenses](https://github.com/mtotschnig/MyExpenses) :- GPL licenced Android Expense Tracking App 
+
+
+### Other
+---------------------------------------------
+[Saber](https://github.com/adil192/saber) :- A (work-in-progress) cross-platform libre handwritten notes app.
+
+[Quillpad](https://github.com/quillpad/quillpad) :- Take beautiful markdown notes and stay organized with task lists. Fork of Quillnote.
+
+[Bluetooth terminal](https://github.com/Sash0k/bluetooth-spp-terminal) :- Bluetooth terminal for Android (based on Android Bluetooth chat sample).
+
+[BLE Radar](https://github.com/Semper-Viventem/MetaRadar) :- The app for BLE ether monitoring tracks your environment, finds some devices, makes relations between devices around you, and tracks devices' movements.
+
+[Breezy Weather](https://github.com/breezy-weather/breezy-weather) :- A Material Design Weather Application, fork of [Geometric Weather](https://github.com/WangDaYeeeeee/GeometricWeather).
+
+[Series Guide](https://github.com/UweTrottmann/SeriesGuide) :- Track your favorite TV shows and movies on Android devices.
+
+[Showly OSS](https://github.com/1RandomDev/showly-oss) :- Fork of the Showly app without Google Trackers. Showly 2.0 is modern, slick, open-sourced Android TV Shows Tracker.
+
 [Table Habits](https://github.com/FriesI23/mhabit) :- Table Habit is an app that helps you establish and track your own micro habit. Its includes a complete set of growth curves and charts to help you establish habits more effectively.
 
 [MyGarden](https://gitlab.com/m9712) :- A simple app to manage your Garden
-
-[GreenStash](https://github.com/Pool-Of-Tears/GreenStash) :- Simple FOSS android app to help you plan and manage your savings goals easily and establish the habit of saving money. 
-
-[Paisa](https://github.com/RetroMusicPlayer/Paisa) :- Expense manager for Android with Material Design 
 
 [Amarok Hider](https://github.com/deltazefiro/Amarok-Hider) :- Hide your private files and apps with a single click. 
 
@@ -84,10 +125,6 @@
 
 [App Manager](https://github.com/MuntashirAkon/AppManager) :- A full-featured package manager and viewer for Android 
 
-[MoneyWallet](https://github.com/AndreAle94/moneywallet) :- An android application that let you track your expenses 
-
-[My Expenses](https://github.com/mtotschnig/MyExpenses) :- GPL licenced Android Expense Tracking App 
-
 [personalDNSfilter](https://github.com/IngoZenz/personaldnsfilter) :- personalDNSfilter is a DNS filter proxy written in Java.
 
 [tasks](https://github.com/tasks/tasks) :- Open-source To-Do Lists & Reminders (based on Astrid)
@@ -95,5 +132,3 @@
 [codecallendar](https://github.com/stackbuffer/CodeCalendar) :- Keep track of coding contests on various online judges. 
 
 [Habits](https://github.com/iSoron/uhabits) :- Loop Habit Tracker, a mobile app for creating and maintaining long-term positive habits 
-
-[Seal](https://github.com/JunkFood02/Seal) :- Video/Audio Downloader for Android, based on yt-dlp, designed with Material You 

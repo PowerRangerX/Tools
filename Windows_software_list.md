@@ -1,5 +1,11 @@
 ### Software
 ----------------------------------------------
+[Logseq](https://github.com/logseq/logseq) :- A privacy-first, open-source platform for knowledge management and collaboration.
+
+[Appflowy](https://github.com/AppFlowy-IO/appflowy) :- AppFlowy is an open-source alternative to Notion. You are in charge of your data and customizations. Built with Flutter and Rust.
+
+[Cryptpad](https://github.com/cryptpad/cryptpad) :- Collaborative office suite, end-to-end encrypted and open-source.
+
 [Tidy Tabs](https://apps.microsoft.com/store/detail/tidytabs/XPDLJXH603QVT8) :- TidyTabs is a tool that allows you to free up your desktop or organize your applications into tabbed groups for easier and quicker access. Ever wanted to have Chrome-style tabs in Windows Explorer, Microsoft Office, or PuTTY? TidyTabs does just that.
 
 [Context Menu for Windows 11](https://github.com/ikas-mc/ContextMenuForWindows11) :- Custom Context Menu for Windows 11
