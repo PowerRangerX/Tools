@@ -1,5 +1,23 @@
 ### Software
 ----------------------------------------------
+[KDE Connect](https://github.com/KDE/kdeconnect-kde) :- Multi-platform app that allows your devices to communicate.
+
+[Draw.io](https://github.com/jgraph/drawio) :- draw.io is a JavaScript, client-side editor for general diagramming and whiteboarding.
+
+[Cheat Engine](https://github.com/cheat-engine/cheat-engine) :- Cheat Engine. A development environment focused on modding.
+
+[Cloudflare WRAP](https://one.one.one.one/) :- 1.1.1.1 with WARP replaces the connection between your device and the Internet with a modern, optimized, protocol. Also avaliable on winget
+
+[NanaZip](https://github.com/M2Team/NanaZip) :- The 7-Zip derivative intended for the modern Windows experience.
+
+[DevToys](https://github.com/veler/DevToys) :- A Swiss Army knife for developers.
+
+[AudoDarkMode](https://github.com/AutoDarkMode/Windows-Auto-Night-Mode) :- Automatically switches between the dark and light theme of Windows 10 and Windows 11.
+
+[Keyweb](https://github.com/keeweb/keeweb) :- Free cross-platform password manager compatible with KeePass.
+
+[KeypassXC](https://github.com/keepassxreboot/keepassxc) :- KeePassXC is a cross-platform community-driven port of the Windows application “Keepass Password Safe”.
+
 [Logseq](https://github.com/logseq/logseq) :- A privacy-first, open-source platform for knowledge management and collaboration.
 
 [Appflowy](https://github.com/AppFlowy-IO/appflowy) :- AppFlowy is an open-source alternative to Notion. You are in charge of your data and customizations. Built with Flutter and Rust.
